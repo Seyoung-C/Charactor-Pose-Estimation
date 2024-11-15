@@ -1,4 +1,4 @@
-# Charactor-Pose-Estimation
+# Character-Pose-Estimation
 Pose estimation for animated characters through augmentation of human pose datasets
 ---
 ## Repository
